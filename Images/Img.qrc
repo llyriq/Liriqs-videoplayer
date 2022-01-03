@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="1">
+    <file>Fullscreen.png</file>
+    <file>Mute.png</file>
+    <file>Pause.png</file>
+    <file>Play.png</file>
+    <file>Stop.png</file>
+    <file>Volume.png</file>
+  </qresource>
+</RCC>
